@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class JobDescription {
 
     private List<String> skills;
