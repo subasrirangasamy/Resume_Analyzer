@@ -5,7 +5,6 @@ public class Resume {
     public Resume(String content) {
         this.content = content.toLowerCase();
     }
-
     public String getContent() {
         return content;
     }
